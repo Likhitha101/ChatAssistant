@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Reset Password",
+    "content": "To reset your password, go to Settings > Security > Change Password. You will receive an email with a verification link."
+  },
+  {
+    "id": 2,
+    "title": "Refund Policy",
+    "content": "Refunds are allowed within 7 days of purchase. The item must be unused and in its original packaging. Contact billing@example.com to start the process."
+  },
+  {
+    "id": 3,
+    "title": "Shipping Times",
+    "content": "Standard shipping takes 3-5 business days. International shipping can take up to 14 business days depending on the destination."
+  },
+  {
+    "id": 4,
+    "title": "Contact Support",
+    "content": "You can reach our human support team via live chat between 9 AM and 5 PM EST, or email support@example.com."
+  },
+  {
+    "id": 5,
+    "title": "Subscription Cancellation",
+    "content": "Cancel your subscription any time from the 'Billing' tab in your dashboard. Access remains until the end of the current billing cycle."
+  }
+]
